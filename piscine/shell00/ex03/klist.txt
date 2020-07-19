@@ -1,0 +1,5 @@
+Credentials cache: API:246ABEEF-BF9B-45F1-8A82-F0FA6F67409E
+        Principal: emestour@42.FR
+
+  Issued                Expires               Principal
+Jun 29 12:29:39 2020  Jul  6 12:29:26 2020  krbtgt/42.FR@42.FR
